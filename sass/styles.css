@@ -461,7 +461,7 @@ section {
   }
   header.sticky {
     padding: 1px 2.5%;
-    transition: 0.1s;
+    transition: all 0.2s ease;
   }
   section {
     padding: 110px 3% 60px;
@@ -535,6 +535,7 @@ section {
   .header__nav.open {
     top: 100%;
     padding-bottom: 1rem;
+    transition: all 0.45s ease;
   }
   .header-open {
     background-color: var(--bg-color);
