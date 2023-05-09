@@ -535,10 +535,10 @@ section {
   .header__nav.open {
     top: 100%;
     padding-bottom: 1rem;
-    transition: all 0.45s ease;
+    transition: all 0.1s ease;
   }
   .header-open {
     background-color: var(--bg-color);
-    transition: 0.5s;
+    transition: 0.1s;
   }
 }/*# sourceMappingURL=styles.css.map */
